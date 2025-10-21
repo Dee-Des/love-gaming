@@ -28,3 +28,34 @@ async function fetchData() {
         console.error(error);
     }
 }
+
+function runGame() {
+
+}
+
+function checkAnswer() {
+
+}
+
+function calculateCorrectAnswer(){
+
+}
+
+function incrementScore() {
+}
+
+function incrementWrongAnswer() {
+
+}
+
+function displayNameQuestion() {
+
+}
+
+function displayIdQuestion() {
+
+}
+
+function displayWeightQuestion() {
+
+}
