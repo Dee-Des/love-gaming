@@ -1,23 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <!-- font awesome and google fonts -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Raleway%7CRighteous" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Love Weather</title>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <title>Pokemon Fun</title>
 </head>
+
 <body>
-    <h1>Welcome to</h1>
+    <h1 class="heading">
+        <img class="logo" src="assets/images/logo-image.jpg" alt="Logo">Pokemon Fun
+        </h1>
+
+
+        <div class="game-area">
+
+
+        </div>
+
+        <div class="score-area">
+            <p class="scores">Correct Answers <span id="score">0</span></p>
+            <p class="scores">Incorrect Answers <span id="incorrect">0</span></p>
+        </div>
+
     <input type="text" id="pokemonName" placeholder="Enter Pokemon name">
 
     <!--button when clicked calls fetchData function-->
-    <button onclick="fetchData()">Fetch Pokemon</button><br>
+    <!--<button onclick="fetchData()">Fetch Pokemon</button><br>-->
 
     <!--after fetching some Pokemon data we have an image to work with-->
     <!--Choose to not display-->
-    <img src=""  alt="Pokemon Sprite" id="pokemonSprite" style="display: none">
-    
+    <!--<img src="" alt="Pokemon Sprite" id="pokemonSprite" style="display: none">-->
+
     <script src="assets/js/script.js"></script>
+
+
 </body>
+
 </html>
