@@ -19,21 +19,26 @@
     <div class="game-area">
         <h1 class="heading" id="logo">Pokemon Fun</h1>
 
-        <img class="logo" src="assets/images/logo-image.jpg" alt="gaming-controller">Love Gaming2
+        <img class="logo" src="assets/images/logo-image.jpg" alt="gaming-controller">Love Gaming
 
         <h1>Welcome to Summon a Pokemon Sprite!</h1>
         <h2>Please type in the name of a Pokemon, e.g. Mewtoo, Pikachu, Charmander</h2>
         <input type="text" id="pokemonName" placeholder="Enter Pokemon name">
-
         <!--button when clicked calls fetchData function-->
-        <button onclick="fetchData()">Summon Sprite</button><br>
-
+        <button onclick="displaySpriteImageData()">Summon Sprite</button><br>
         <!--after fetching some Pokemon data we have an image to work with-->
         <!--Choose to not display-->
         <img src="" alt="Pokemon Sprite" id="pokemonSprite" style="display: none">
-
-
+    
+        <input type="text" id="pokemonType" placeholder="Guess the Pokemon's type">
+        <!--button when clicked calls fetchData function-->
+        <button onclick="displayTypeData()">Check Type</button><br>
+    
+        <input type="text" id="pokemonSpecies" placeholder="Guess the Pokemon's species">
+        <!--button when clicked calls fetchData function-->
+        <button onclick="displaySpeciesData()">Check Species</button><br>
     </div>
+
     <div class="controls-area">
 
         <!--id category button-->

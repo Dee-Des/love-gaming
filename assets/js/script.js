@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 //fetchData();
 
-async function fetchData() {
+async function displaySpriteImageData() {
 
     try {
 
@@ -37,20 +37,64 @@ async function fetchData() {
 
         const data = await response.json();
 
-        //to log data returning to the console
+        //to log sprite image data returning to the console
         //console.log(data);
         const pokemonSprite = data.sprites.front_default;
         const imgElement = document.getElementById("pokemonSprite");
         imgElement.src = pokemonSprite;
         imgElement.style.display = "block";
+        
     }
     catch(error){
         console.error(error);
     }
 }
 
+
+
 function runGame() {
 
+}
+
+async function displaySpriteImageData() {
+
+    try {
+
+        const pokemonName = document.getElementById("pokemonName").value.toLowerCase();
+        const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
+
+        if(!response.ok) {
+            throw new Error ("Could not fetch resource");
+        }
+
+        const data = await response.json();
+
+        //to log sprite image data returning to the console
+        //console.log(data.sprites.front_default);
+        const pokemonSprite = data.sprites.front_default;
+        const imgElement = document.getElementById("pokemonSprite");
+        imgElement.src = pokemonSprite;
+        imgElement.style.display = "block";
+
+        //to log Pokemon type data returning to the console
+        //console.log(data.types[0].type.name)
+        const pokemonType = data.types[0].type.name;
+        const typeTextElement = document.getElementById("pokemonType");
+        typeTextElement.value = pokemonType;
+       
+         //to log Pokemon type data returning to the console
+        //console.log(data.types[0].type.name)
+        const pokemonSpecies = data.species.name;
+        console.log(pokemonSpecies);
+        const speciesTextElement = document.getElementById("pokemonSpecies");
+        speciesTextElement.value = pokemonSpecies;
+       
+
+
+    }
+    catch(error){
+        console.error(error);
+    }
 }
 
 function checkAnswer() {
@@ -65,11 +109,11 @@ function incrementScore() {
 
 }
 
-function displayIdQuestion() {
+function displayTypeData() {
 
 }
 
-function displayWeightQuestion() {
+function displaySpeciesData() {
 
 }
 
