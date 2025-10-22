@@ -17,26 +17,32 @@
 
 <body>
     <div class="game-area">
-        <h1 class="heading" id="logo">Pokemon Fun</h1>
+        <h1 class="heading" id="logo">Love Gaming</h1>
 
-        <img class="logo" src="assets/images/logo-image.jpg" alt="gaming-controller">Love Gaming
+        <img class="logo" src="assets/images/logo-pikachu.jpg" alt="Pikachu">Pokemon Fun
 
-        <h1>Welcome to Summon a Pokemon Sprite!</h1>
-        <h2>Please type in the name of a Pokemon, e.g. Mewtoo, Pikachu, Charmander</h2>
+        <h1>Summon a Pokemon Sprite!</h1>
+        <h4>Please type in the name of a Pokemon, e.g. Mewtoo, Pikachu, Charmander</h4>
+       
         <input type="text" id="pokemonName" placeholder="Enter Pokemon name">
         <!--button when clicked calls fetchData function-->
-        <button onclick="displaySpriteImageData()">Summon Sprite</button><br>
+        <button id="button-1" onclick="displaySpriteFacingForwards()">Summon Forward Facing Sprite</button><br>
         <!--after fetching some Pokemon data we have an image to work with-->
         <!--Choose to not display-->
-        <img src="" alt="Pokemon Sprite" id="pokemonSprite" style="display: none">
+        <img src="" alt="Pokemon Sprite" id="pokemonSpriteFacingForwards" style="display: none">
+         
+        <input type="text" id="pokemonName2" placeholder="Enter Pokemon name">
+       <button id="button-2"onclick="displaySpriteFacingBackwards()">Summon Backwards Facing Sprite</button><br>
+        <!--after fetching some Pokemon data we have an image to work with-->
+        <!--Choose to not display-->
+        <img src="" alt="Pokemon Sprite" id="pokemonSpriteFacingBackwards" style="display: none">
+        
+        <input type="text" id="pokemonName3" placeholder="Enter Pokemon name">
+       <button id="button-3" onclick="pokemonSpriteFacingForwardsShiny()">Summon Forwards Shiny Sprite</button><br>
+        <!--after fetching some Pokemon data we have an image to work with-->
+        <!--Choose to not display-->
+        <img src="" alt="Pokemon Sprite" id="pokemonSpriteFacingForwardsShiny" style="display: none">
     
-        <input type="text" id="pokemonType" placeholder="Guess the Pokemon's type">
-        <!--button when clicked calls fetchData function-->
-        <button onclick="displayTypeData()">Check Type</button><br>
-    
-        <input type="text" id="pokemonSpecies" placeholder="Guess the Pokemon's species">
-        <!--button when clicked calls fetchData function-->
-        <button onclick="displaySpeciesData()">Check Species</button><br>
     </div>
 
     <div class="controls-area">
@@ -59,14 +65,15 @@
         <!--      <input id="answer-box-pokemonName" type="text" id="pokemonName" placeholder="Enter Pokemon name">
                     <!--button when clicked calls fetchData function               <button onclick="fetchData()">Fetch Pokemon</button><br>
 -->
-    </div>
+<!--   
+</div>
     <p class="answer-message"> Enter Answer:</p>
     <button class="btn btn--gray" data-type="submit">Submit Answer</button>
     </div>
     <div class="score-area">
         <p class="scores">Correct Answers <span id="score">0</span></p>
         <p class="scores">Incorrect Answers <span id="incorrect">0</span></p>
-    </div>
+    </div>-->
     <footer>
         <ul id="social-networks">
             <li><a href="https://www.facebook.com/" target="_blank" rel="noopener"

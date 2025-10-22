@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 //fetchData();
 
-async function displaySpriteImageData() {
+async function displaySpriteFacingForwards() {
 
     try {
 
@@ -40,27 +40,24 @@ async function displaySpriteImageData() {
         //to log sprite image data returning to the console
         //console.log(data);
         const pokemonSprite = data.sprites.front_default;
-        const imgElement = document.getElementById("pokemonSprite");
+        const imgElement = document.getElementById("pokemonSpriteFacingForwards");
         imgElement.src = pokemonSprite;
         imgElement.style.display = "block";
+  
+        
         
     }
+    
     catch(error){
         console.error(error);
     }
 }
 
-
-
-function runGame() {
-
-}
-
-async function displaySpriteImageData() {
+async function displaySpriteFacingBackwards() {
 
     try {
 
-        const pokemonName = document.getElementById("pokemonName").value.toLowerCase();
+        const pokemonName = document.getElementById("pokemonName2").value.toLowerCase();
         const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
 
         if(!response.ok) {
@@ -70,53 +67,40 @@ async function displaySpriteImageData() {
         const data = await response.json();
 
         //to log sprite image data returning to the console
-        //console.log(data.sprites.front_default);
-        const pokemonSprite = data.sprites.front_default;
-        const imgElement = document.getElementById("pokemonSprite");
-        imgElement.src = pokemonSprite;
-        imgElement.style.display = "block";
-
-        //to log Pokemon type data returning to the console
-        //console.log(data.types[0].type.name)
-        const pokemonType = data.types[0].type.name;
-        const typeTextElement = document.getElementById("pokemonType");
-        typeTextElement.value = pokemonType;
-       
-         //to log Pokemon type data returning to the console
-        //console.log(data.types[0].type.name)
-        const pokemonSpecies = data.species.name;
-        console.log(pokemonSpecies);
-        const speciesTextElement = document.getElementById("pokemonSpecies");
-        speciesTextElement.value = pokemonSpecies;
-       
-
-
+        //console.log(data);
+        const pokemonSprite = data.sprites.back_default;
+        const facingBackwardsImgElement = document.getElementById("pokemonSpriteFacingBackwards");
+        facingBackwardsImgElement.src = pokemonSprite;
+         facingBackwardsImgElement.style.display = "block";
+        
     }
     catch(error){
         console.error(error);
     }
 }
 
-function checkAnswer() {
+async function pokemonSpriteFacingForwardsShiny() {
 
-}
+    try {
 
-function calculateCorrectAnswer() {
+        const pokemonName = document.getElementById("pokemonName3").value.toLowerCase();
+        const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`);
 
-}
+        if(!response.ok) {
+            throw new Error ("Could not fetch resource");
+        }
 
-function incrementScore() {
-
-}
-
-function displayTypeData() {
-
-}
-
-function displaySpeciesData() {
-
-}
-
-function displayMultiplyQuestion() {
-
+        const data = await response.json();
+     
+        //to log sprite image data returning to the console
+        //console.log(data);
+        const pokemonSprite = data.sprites.front_shiny;
+        const facingForwardsShinyImgElement = document.getElementById("pokemonSpriteFacingForwardsShiny");
+        facingForwardsShinyImgElement.src = pokemonSprite;
+        facingForwardsShinyImgElement.style.display = "block";
+  
+    }
+    catch(error){
+        console.error(error);
+    }
 }
