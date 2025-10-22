@@ -48,3 +48,31 @@ async function fetchData() {
         console.error(error);
     }
 }
+
+function runGame() {
+
+}
+
+function checkAnswer() {
+
+}
+
+function calculateCorrectAnswer() {
+
+}
+
+function incrementScore() {
+
+}
+
+function displayIdQuestion() {
+
+}
+
+function displayWeightQuestion() {
+
+}
+
+function displayMultiplyQuestion() {
+
+}
