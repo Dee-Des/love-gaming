@@ -1,10 +1,10 @@
 # Pokemon Fun
 
-![Pokemon Fun - Project Banner](/documentation/images/afa-project-banner.webp)
+![Pokemon Fun - Game opening page](/documentation/images/afa-project-banner.webp)
 
 
 <p align="center">
-| <a href="https://therickyroy.github.io/astronauts-for-autism/" target="_blank">Live Project</a> |
+| <a href="https://https://dee-des.github.io/love-gaming/" target="_blank">Live Project</a> |
 </p>
 
 ## Introduction 
