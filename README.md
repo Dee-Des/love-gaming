@@ -62,19 +62,28 @@ Pokemon Fun is a game which utilises data returned from an API.
 
 ## User Stories 
 
-As a parent, I want to know the safeguarding measures in place so I can feel confident knowing my child will be safe during their guided sessions.
+AS a Site User I WANT the layout to be responsive and user-friendly SO THAT I can browse and interact comfortably on any device. (must-have)
 
-As a parent, I want to easily find additional resources to support my child knowing these will be similar to what they have already learned within the sessions to prevent confusion and frustration. 
+AS A Developer I WANT the data to come from a reliable public API SO THAT I don't manage databases manually. (must-have)
 
-As a child, I want to find resources that help me when I am feeling overwhelmed. 
+AS A Site User I WANT a clear and responsive Site Logo SO THAT I can easily view and interact with it on any device. (must-have)
 
-As a child, I want to be able to talk to someone when I am scared and need help.
+As A Site User I WANT a user-friendly and responsive site title SO THAT I can easily view it on any device. (must-have)
 
-As a staff member, I want to be able to reassure children and parents that we provide a safe environment. 
+AS A Site User I WANT user-friendly and responsive buttons SO THAT I can easily view and interact with them on any device. (must-have)
 
-As a staff member, I want to be able to provide an easy point of access to resources to supplement our sessions.
 
-As a staff member, I want to provide an easy and secure method of communication, which may also include anonymity to protect those that feel unsafe. 
+
+
+
+
+
+
+
+
+
+
+
 
 <hr>
 <p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
