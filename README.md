@@ -99,34 +99,31 @@ Color selection is a key component to any design process, however with the natur
 
 The artwork and color selection thus played an integral part in the design of this project as they were essential in creating a welcoming and appropriate page for the end user and their Pokemon themed game.  
 
+
+
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Fonts
 
 As with color, font was a big consideration for ensuring a positive user experience whilst visiting the page.<br>
-Two sans-serif fonts were selected for the project, and implemented via [Google Fonts](https://fonts.google.com) using a direct import code within the style.css file.
 
-[Fredoka](https://fonts.google.com/specimen/Fredoka) serves as playful font to be used within logos, headings other page elements of significance.
-
-[Prompt](https://fonts.google.com/specimen/Prompt) is to be used as the primary content font ensuring ease of readability and complementing the Fredoka font choice. 
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ### Wireframes
 
-These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. Utilising the [Bootstrap](https://getbootstrap.com/) framework and available components allows for the construction of a page that feels familiar for ease of navigation whilst also allowing for well structured content and a responsive design. 
+These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. 
 
 **Mobile Wireframe**
-![Mobile Wireframe](/documentation/images/wireframe-mobile.webp)
+![Mobile Wireframe](/documentation/images/wireframe-mobile.png)
 
 **Tablet Wireframe**
-![Tablet Wireframe](/documentation/images/wireframe-tablet.webp)
+![Tablet Wireframe](/documentation/images/wireframe-tablet.png)
 
 **Desktop Wireframes**
-![Desktop Wireframe 1](/documentation/images/wireframe-desktop-1.webp)
-![Desktop Wireframe 2](/documentation/images/wireframe-desktop-2.webp)
+![Desktop Wireframe](/documentation/images/wireframe-desktop.png)
 
 <hr>
 <p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
