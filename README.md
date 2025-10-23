@@ -126,46 +126,31 @@ These low-fidelity wireframes have been created using [Balsamiq](https://balsami
 ![Desktop Wireframe](/documentation/images/wireframe-desktop.png)
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Imagery
 
-The image selection became a key influence in the design of the overall project, including naming and branding.
+The image selection became a key influence in the design of the overall project.
 
-With the requirements of the end user in mind, I sought out images that would fulfil specific criteria;
-- Strong thematic link that could be used for branding purposes
+With the requirements of the end user in mind, I sought out images that would fulfil specific criteria:
 - Easily identifiable and appealing to the target audience
-- Promote inclusivity
-- Have wide variety for appropriate use and relevance across project
-- Adhere to color research to maintain user well-being
 
-After seeking out many options including animal images in the same style, I opted to use the Astronaut.
+Pokemon Logo image obtainable from pexels.com.
 
-This selection of images fulfilled the criteria set out and offered further inspiration. 
-- Astronaut character maintains consistent theme and works well as brand image and name
-- Usage of the same character makes the images eaily identifiable and has a fun and playful appeal
-- Adopting research that has been applied to comic book superheroes, the use of a mask to hide identity allows the character to adopt universal representation and inclusivity
-- The images available using this character was great in number (more than included here) which would allow for relevant inclusion across the project and future implementation
-- The images not only adhered to the color requirements, but also informed minor adjustments to the color palette
 
-Before implementing the images into the project I used [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) to make some minor adjustments. This included removing background colors, removing hearts that felt inappropriate to the end user and converting them to webp formatting to follow current standards.
-
-![Astronaut Images](/documentation/images/images.gif)
-- Astronaut Artwork: Designed by [Freepik](http://www.freepik.com/) - Following [Attributation Policy](https://support.freepik.com/s/article/Attribution-How-when-and-where?language=en_US)
-
-During my process of seeking out feedback for UX my decision to include the astronaut character based up on the anonymity and thus inclusivity was confirmed to be a positive one.
-![Mobile Wireframe](/documentation/images/space_mumma.png)
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Features
 
 ### General Features
 
-In order to fulfil the criteria the page consists of various sectioned information each with a variety of links, resources and other elements that contribute to a positive user experience. 
+In order to fulfil the criteria the page consists of 
 
-Upon coding the project, receiving feedback and implementing the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) the features and design shifted slightly from the original wireframe.
+
+
+various sectioned information each with a variety of links, resources 
 
 Some key adjustments: 
 
@@ -175,101 +160,45 @@ This was done to reflect the clearly definied section of content and provide the
 - Opting not centre all content within their respective parents.<br>
 This decision was made as a result of personal reflection and user feedback to provide a more enjoyable user experience.
 
-#### Navigation and Hero Section
-
-I chose to use a bold and welcoming hero section for the start of the page using the [Bootstrap Jumbotron](https://getbootstrap.com/docs/5.3/examples/jumbotron/)
-
-This gives a clear indication of the content as well as imagery that links to the brand and identity of the organisation.
-
-Within this section I have included two buttons that present easy to navigate options for the user to access the relevant section of the page for their needs.
-
-The navigation bar is a Bootstrap component that allows for easy navigation around the site using a familiar method for a positive user experience.
-
-![Navigation & Hero](/documentation/images/nav-and-hero.webp)
-
-#### Bootstrap Cards
-
-I opted to utilise the [Bootstrap Card](https://getbootstrap.com/docs/5.3/components/card/) feature for the main content of the page as this allowed for a clean organisation of the information. 
-
-Within these sections I have also opted to provide additional resources, links and access to contact modals via buttons for ease.
-
-For balance I also gave the cards a consistent height by adding the `h-100` class.
-
-![Cards](/documentation/images/cards.webp)
-
-#### Policies Section
-
-Mirroring the design of the hero section, I have included a safeguarding policies section for the organisation giving basic details and providing a link to download the policy in full. 
-
-This section not only serves as a vital area for information, but also as a visual divider between the card sections aimed at parents and their families. 
-
-![Policies Section](/documentation/images/policies.webp)
-
-#### Footer
-
-For the footer again I implemented a [Bootstrap](https://getbootstrap.com/docs/5.3/examples/footers/) component.
-
-Here I have used the bold contrast of the purple to distinguish it apart from the rest of the page allowing it to be easily identifiable across the whole website.
-
-The information provided in this section is considered somewhat standard and provides for a user experience that is easy to understand. 
 
 #### Links and Buttons
 
-Although the page used a variety of colours for buttons to adhere to contrast requirements, each link and button does maintain a level of consistency by utilising the `var(--blue)` as part of it's `:hover` status in some way.
+The page uses a primary colour for buttons to adhere to contrast requirements as well as appealing to Pokeman fans.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="pokemon-fun">Back To Top</a></p>
 
 ### Responsive Design
 
-Utilising the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) allowed for an implementation that is responsive without the need for additional CSS or media queries.
+Utilising additional CSS or media queries allowed for an implementation that is responsive. 
 
 Though it took some experimentation and troubleshooting, I have been able to create a page that is fully responsive to modern standards.
 
-This has proven to be a very valuable learning experience in the use of frameworks.
-As a result of my debugging within Dev Tools in order to identify and resolve responsiveness issues I believe I have a much greater understanding of how to adpat Bootstrap for use within future projects. 
-
-During testing it was apparent that `display-6` was too large for the navbar brand text so this was removed to increase responsivity.
-
-[Am I Responsive](https://ui.dev/amiresponsive?url=https://therickyroy.github.io/astronauts-for-autism/)<br>
-![Am I Responsive](/documentation/images/responsive.webp)<br>
-![Mobile](/documentation/images/mobile.webp)<br>
-![ipad Mini](/documentation/images/ipad-mini.webp)<br>
-![Dektop](/documentation/images/desktop.webp)<br>
-
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 
 ## Built With
 
 ### Technologies and Languages
-![Static Badge](https://img.shields.io/badge/HTML5-Language-grey?logo=html5&logoColor=%23ffffff&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS3-Language-grey?logo=css3&logoColor=%23ffffff&color=%231572B6)
-
-<a href="https://git-scm.com/" target=_blank_>![Static Badge](https://img.shields.io/badge/Git-v2.46.2-grey?logo=git&logoColor=%23ffffff&color=%23F05032)</a>
-<a href="https://github.com/" target="_blank">![Static Badge](https://img.shields.io/badge/GitHub-Repo_Hosting-white?logo=github&logoColor=%23ffffff&color=%23181717)</a>
-<a href="https://www.gitpod.io/" target="_blank">![Static Badge](https://img.shields.io/badge/Gitpod-IDE-white?logo=gitpod&logoColor=%23ffffff&color=%23FFAE33)</a>
+This projet was built using the following CSS3, HTML5 and 
+Javascript.
 
 ### Libraries and Frameworks
-<a href="https://getbootstrap.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Bootstrap-v5.3.3-grey?logo=bootstrap&logoColor=%23ffffff&color=%237952B3)</a>
-<a href="#" target="_blank">![Static Badge](https://img.shields.io/badge/Font_Awesome-Icons-grey?logo=fontawesome&logoColor=%23ffffff&color=%23538DD7)</a>
-<a href="#" target="_blank">![Static Badge](https://img.shields.io/badge/Google_Fonts-Fonts-grey?logo=googlefonts&logoColor=%23ffffff&color=%234285F4)</a>
 
+Not used in the implementation of this project.
 
 ### Tools and Programs
-<a href="https://affinity.serif.com/en-gb/" target="_blank">![Static Badge](https://img.shields.io/badge/Affinity-Photo%202-grey?logo=affinityphoto&logoColor=%23ffffff&color=%234E3188)</a>
-<a href="https://balsamiq.com/wireframes/" target="_blank">![Static Badge](https://img.shields.io/badge/Balsamiq-Wireframes-grey?logoColor=%23ffffff&color=%23CC0100)</a>
-<a href="https://ezgif.com/maker" target="_blank">![Static Badge](https://img.shields.io/badge/Ezgif-GIF_Maker-grey?logoColor=%23ffffff&color=%23ffffff)</a>
+
+Not used in the implementation of this project.
 
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Deployment
 
-
-This [GitHub](https://github.com/) project was created using the [Code Institute Template](https://github.com/Code-Institute-Org/ci-full-template) ensuring all necessary dependencies were included when opening within the designated workspace on the [Gitopod IDE](https://www.gitpod.io/).
+This [GitHub](https://github.com/) project was created using the [Code Institute Template](https://github.com/Code-Institute-Org/ci-full-template) ensuring all necessary dependencies were included when opening within the designated workspace on the [github IDE](https://www.github.io/).
 
 Setup a repo using this method and template:
 1. Login to your GitHub profile.
@@ -288,7 +217,7 @@ Additional information on the deployment process can be found on the official [G
 
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Testing
 
