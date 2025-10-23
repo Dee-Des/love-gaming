@@ -181,7 +181,7 @@ Though it took some experimentation and troubleshooting, I have been able to cre
 ## Built With
 
 ### Technologies and Languages
-This projet was built using the following CSS3, HTML5 and 
+This project was built using the following CSS3, HTML5 and 
 Javascript.
 
 ### Libraries and Frameworks
@@ -198,22 +198,11 @@ Not used in the implementation of this project.
 
 ## Deployment
 
-This [GitHub](https://github.com/) project was created using the [Code Institute Template](https://github.com/Code-Institute-Org/ci-full-template) ensuring all necessary dependencies were included when opening within the designated workspace on the [github IDE](https://www.github.io/).
-
-Setup a repo using this method and template:
-1. Login to your GitHub profile.
-2. Navigate to the Code Institute Full Template
-3. Click the dropdown for 'Use this template' and select "Create a new repository"
-4. Generate the necessary name and description for your repo and click 'Create repository from template'
-5. Navigate to the new repo and click the green 'Open' button with the Gitpod logo<br>
-**IMPORTANT - This button should only be clicked once to generate the new IDE workspace**
-6. You can now work on your repository within the Code Institute Gitpod IDE workspace
-
-Once the project repo is created, an early deployment for the live project should performed.<br>
-This allows for early and continuous testing using a variety of devices, as well as the Dev Tools available within browsers.
-
-Additional information on the deployment process can be found on the official [GitHub Docs](https://docs.github.com/en/pages/quickstart)
-
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - <a href="https://https://dee-des.github.io/love-gaming/" target="_blank">Pokemon Fun</a>
 
 
 <hr>
