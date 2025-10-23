@@ -9,13 +9,13 @@
 
 ## Introduction 
 
-Astronauts for Autism is my first assessed portfolio project developed as part of the Code Institute Full Stack Software Developer Bootcamp, consisting of learning outcomes to utilise HTML5, CSS3 & Bootstrap in order to fulfil the necessary requirements for the brief provided about safeguarding.
+Pokemon Fun is my javascript portfolio project developed as part of the Code Institute goStack Bootcamp, consisting of learning outcomes to utilise HTML5, CSS3 & javascript to fulfil the necessary requirements for the brief provided to call and display data from an API.
 
-The live project can found here: <a href="https://therickyroy.github.io/astronauts-for-autism/" target="_blank">Astronauts for Autism</a>
+The live project can found here: <a href="https://https://dee-des.github.io/love-gaming/" target="_blank">Pokemon Fun</a>
 
 <h2 align="center" id="TOC">Table of Contents</h2>
 
-* [Astronauts for Autism](#astronauts-for-autism)
+* [Pokemon Fun](#pokemon-fun)
   - [Introduction](#introduction)
   - [Table of Contents](#TOC)
   - [Project Ouline](#project-outline)
@@ -28,10 +28,7 @@ The live project can found here: <a href="https://therickyroy.github.io/astronau
       - [Wireframes](#wireframes)
 * [Features](#features)
   - [General Features](#general-features)
-    - [Navigation and Hero Section](#navigation-and-hero-section)
-    - [Bootstrap Cards](#bootstrap-cards)
-    - [Policies Section](#policies-section)
-    - [Footer](#footer)
+   
     - [Links and Buttons](#links-and-buttons)
   - [Resnposive Design](#responsive-design)
 * [Built With](#built-with)
@@ -47,7 +44,7 @@ The live project can found here: <a href="https://therickyroy.github.io/astronau
   - [Acknowledgements](#acknowledgements)
 
 
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Project Outline
 
