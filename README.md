@@ -1,6 +1,6 @@
 # Pokemon Fun
 
-![Pokemon Fun - Game opening page](/documentation/images/afa-project-banner.webp)
+![Pokemon Fun - Game opening page](/documentation/images/game-opening-page.png)
 
 
 <p align="center">
