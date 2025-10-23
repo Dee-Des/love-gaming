@@ -72,6 +72,27 @@ As A Site User I WANT a user-friendly and responsive site title SO THAT I can ea
 
 AS A Site User I WANT user-friendly and responsive buttons SO THAT I can easily view and interact with them on any device. (must-have)
 
+AS A Site User I WANT a user-friendly and responsive Answer box SO THAT I can easily view and interact with it on any device.(should-have)
+
+AS A Site User I WANT a clearly displayed in real-time Correct Answer tally SO THAT I can easily see the tally to assist in my learning. (should-have)
+
+AS A Site User I WANT a clearly displayed in real-time Wrong Answer tally SO THAT I can easily see the tally to assist in my learning. (should-have)
+
+AS A Product Owner I WANT clearly displayed, user-friendly and responsive Socials details SO THAT the site user becomes a returning customer and helps promote the site by sharing details of their gaming and learning with others.(should-have)
+
+AS A Screen Reader User I WANT components on the site to be properly labelled and announced so that I can play using assistive technologies. (should-have)
+
+AS A Product Owner I WANT clearly displayed, user-friendly and responsive Socials details SO THAT the site user becomes a returning customer and helps promote the site by sharing details of their gaming and learning with others.(should-have)
+
+AS A Screen Reader User I WANT components on the site to be properly labelled and announced so that I can play using assistive technologies. (should-have)
+
+AS A Site User I WANT a clearly displayed in real-time Correct Answer tally SO THAT I can easily see the tally to assist in my learning.(could-have)
+
+AS A Site User I WANT Socials details clearly displayed, user-friendly and responsive Socials details SO THAT I can easily share details of my gaming and learning from the site. (could-have)
+
+
+
+
 
 
 
