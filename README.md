@@ -48,9 +48,7 @@ The live project can found here: <a href="https://https://dee-des.github.io/love
 
 ## Project Outline
 
-Astronauts for Autism is a fictional organisation dedicated to the support of autistic children and their families, with a primary focus on education and learning during weekly guided sessions. The page developed as part of this project documents the organisation's safeguarding policies and practices whilst offering information, support and contact options for children and parents alike.
-
-The final deliverable as well as fulfilling the content requirements is responsive to modern device standards, adheres to accessibility requirements and is aesthetically pleasing with a focus on the needs and well-being of in the intended end-user.
+Pokemon Fun is a game which utilises data returned from an API.
 
 ### Key Objectives
 
