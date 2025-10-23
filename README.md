@@ -52,10 +52,10 @@ Pokemon Fun is a game which utilises data returned from an API.
 
 ### Key Objectives
 
-- A positive and appropriate user experience for autistic children and families utilising effective navigation and layout
-- Clear and concise presentation of content with easy to navigate options for additional information 
+- A positive and appropriate user experience for Pokemon Sprite fans
+- Clear and concise presentation of content 
 - Responsive design that adheres to all necessary standards and accessibility requirements
-- Effective use of color and imagery ensuring consideration for the well-being of the end user
+- Effective use of bright colors and Pokemon imagery ensuring the game reflects Pokemon imagery
 - Inclusion of user-initiated actions providing immediate feedback
 
 ## UX Design
