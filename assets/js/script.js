@@ -10,11 +10,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     for (let button of buttons) {
         button.addEventListener("click", function() {
-            if (this.getAttribute("data-type") === "submit") {
-                alert("You clicked Submit!");
-            } else if
-                (this.getAttribute("data-type") === "forward-facing-sprite") {
-                    alert("You have summoned a forward facing ssprite!");
+            if (this.getAttribute("data-type") === "forward-facing-sprite") {
+                alert("You have summoned a forward facing sprite!");
             } else if
                 (this.getAttribute("data-type") === "backwards-facing-sprite") {
                     alert("You have summoned a backwards facing sprite!");

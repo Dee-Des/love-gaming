@@ -1,9 +1,9 @@
 /* --------- Global style */
 
 body {
-    background-color: white;
+    background-color: yellow;
     font-family: "Raleway", sans-serif;
-    color: #445361;
+    color: black;
     text-align: center;
 }
 
@@ -22,7 +22,7 @@ body {
 /* --------- Game layout */
 
 .game-area {
-    background-color: #f3f6f9;
+    background-color: yellow;
     box-sizing: border-box;
     width: 85%;
     height: 65vh;
