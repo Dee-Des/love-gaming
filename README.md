@@ -218,7 +218,7 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 ![HTML Validation](/documentation/images/validation-html.png)
 
 [CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
-![CSS Validation](/documentation/images/validation-css.webp)
+![CSS Validation](/documentation/images/validation-css.png)
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)<br>
 ![Lighthouse](/documentation/images/lighthouse.webp)
