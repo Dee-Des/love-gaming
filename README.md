@@ -114,7 +114,7 @@ As with color, font was a big consideration for ensuring a positive user experie
 These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. 
 
 **Mobile Wireframe**
-![Mobile Wireframe](/documentation/images/wireframes/wireframe-mobile.png.png)
+![Mobile Wireframe](/documentation/images/wireframes/wireframe-mobile.png)
 
 **Tablet Wireframe**
 ![Tablet Wireframe](/documentation/images/wireframes/wireframe-tablet.png)
@@ -193,7 +193,7 @@ Testing and validation os the website was carried out on both desktop and mobile
 This included regular debugging & testing using the Dev Tools as provided within Chrome Browser.
 
 [HTML Validation](https://validator.w3.org/)<br>
-![HTML Validation](/documentation/images/validation/validation-html.pngvalidation-html.png)
+![HTML Validation](/documentation/images/validation/validation-html.png)
 
 [CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
 ![CSS Validation](/documentation/images/validation/validation-css.png)
