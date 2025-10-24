@@ -202,6 +202,10 @@ This included regular debugging & testing using the Dev Tools as provided within
 ![Lighthouse Desktop](/documentation/images/validation/validation-lighthouse-desktop.png)
 ![Lighthouse Mobile](/documentation/images/validation/validation-lighthouse-mobile.png)
 
+No Errors reported in JSHint
+[JSHint] (https://jshint.com/)
+![JS Validation](/documentation/images/validation/validation-js.png) 
+
 ### Responsive Testing
 
 Media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the site was manually viewed on laptops and mobile.
