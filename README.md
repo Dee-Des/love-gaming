@@ -99,15 +99,12 @@ Color selection is a key component to any design process, however with the natur
 
 The artwork and color selection thus played an integral part in the design of this project as they were essential in creating a welcoming and appropriate page for the end user and their Pokemon themed game.  
 
-
-
 <hr>
 <p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Fonts
 
 As with color, font was a big consideration for ensuring a positive user experience whilst visiting the page. sans-serif was used.<br>
-
 
 <hr>
 <p align="right"><a href="#pokemon-fun">Back To Top</a></p>
@@ -120,7 +117,7 @@ These low-fidelity wireframes have been created using [Balsamiq](https://balsami
 ![Mobile Wireframe](/documentation/images/wireframes/wireframe-mobile.png.png)
 
 **Tablet Wireframe**
-![Tablet Wireframe](/documentation/images/wireframes/wireframe-tablet.pngwireframe-tablet.png)
+![Tablet Wireframe](/documentation/images/wireframes/wireframe-tablet.png)
 
 **Desktop Wireframes**
 ![Desktop Wireframe](/documentation/images/wireframes/wireframe-desktop.png)
@@ -196,15 +193,18 @@ Testing and validation os the website was carried out on both desktop and mobile
 This included regular debugging & testing using the Dev Tools as provided within Chrome Browser.
 
 [HTML Validation](https://validator.w3.org/)<br>
-![HTML Validation](/documentation/images/validation-html.png)
+![HTML Validation](/documentation/images/validation/validation-html.pngvalidation-html.png)
 
 [CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
-![CSS Validation](/documentation/images/validation-css.png)
+![CSS Validation](/documentation/images/validation/validation-css.png)
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)<br>
 ![Lighthouse Desktop](/documentation/images/validation/validation-lighthouse-desktop.png)
 ![Lighthouse Mobile](/documentation/images/validation/validation-lighthouse-mobile.png)
 
+### Responsive Testing
+
+Media queries were used throughout our own CSS to provide a consistent user experience. Chrome dev tools were used frequently to test the site at standard screen sizes and the site was manually viewed on laptops and mobile.
 <hr>
 <p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
