@@ -117,13 +117,13 @@ As with color, font was a big consideration for ensuring a positive user experie
 These low-fidelity wireframes have been created using [Balsamiq](https://balsamiq.com/) to define the key feature layout to guide the user experience design. 
 
 **Mobile Wireframe**
-![Mobile Wireframe](/documentation/images/wireframe-mobile.png)
+![Mobile Wireframe](/documentation/images/wireframes/wireframe-mobile.png.png)
 
 **Tablet Wireframe**
-![Tablet Wireframe](/documentation/images/wireframe-tablet.png)
+![Tablet Wireframe](/documentation/images/wireframes/wireframe-tablet.pngwireframe-tablet.png)
 
 **Desktop Wireframes**
-![Desktop Wireframe](/documentation/images/wireframe-desktop.png)
+![Desktop Wireframe](/documentation/images/wireframes/wireframe-desktop.png)
 
 <hr>
 <p align="right"><a href="#pokemon-fun">Back To Top</a></p>
@@ -137,29 +137,10 @@ With the requirements of the end user in mind, I sought out images that would fu
 
 Pokemon Logo image obtainable from pexels.com.
 
-
-
 <hr>
 <p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Features
-
-### General Features
-
-In order to fulfil the criteria the page consists of 
-
-
-
-various sectioned information each with a variety of links, resources 
-
-Some key adjustments: 
-
-- The inclusion of buttons within the hero section.<br>
-This was done to reflect the clearly definied section of content and provide the user an easy navigation link to the section they would most likely be seeking to interact with. 
-
-- Opting not centre all content within their respective parents.<br>
-This decision was made as a result of personal reflection and user feedback to provide a more enjoyable user experience.
-
 
 #### Links and Buttons
 
@@ -210,9 +191,9 @@ The live link can be found here -  <a href="https://dee-des.github.io/love-gamin
 
 ## Testing
 
-Testing and validation os the website was carried out throughout the course of the project.
+Testing and validation os the website was carried out on both desktop and mobile throughout the course of the project.
 
-This included regular debugging and testing using the Dev Tools as ptovided within Chrome Browser.
+This included regular debugging & testing using the Dev Tools as provided within Chrome Browser.
 
 [HTML Validation](https://validator.w3.org/)<br>
 ![HTML Validation](/documentation/images/validation-html.png)
@@ -221,10 +202,11 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 ![CSS Validation](/documentation/images/validation-css.png)
 
 [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)<br>
-![Lighthouse](/documentation/images/lighthouse.webp)
+![Lighthouse Desktop](/documentation/images/validation/validation-lighthouse-desktop.png)
+![Lighthouse Mobile](/documentation/images/validation/validation-lighthouse-mobile.png)
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
 
 ## Credits
 
@@ -239,7 +221,6 @@ Extra code provided from:
 - youtube tutorial 'How to fetch data from an API using JavaScript' at this link https://www.youtube.com/watch?v=37vxWr0WgQk .
 
 ### Content Research
-
 
 ### Media
 
