@@ -106,7 +106,7 @@ The artwork and color selection thus played an integral part in the design of th
 
 ## Fonts
 
-As with color, font was a big consideration for ensuring a positive user experience whilst visiting the page.<br>
+As with color, font was a big consideration for ensuring a positive user experience whilst visiting the page. sans-serif was used.<br>
 
 
 <hr>
@@ -182,7 +182,7 @@ Though it took some experimentation and troubleshooting, I have been able to cre
 
 ### Technologies and Languages
 This project was built using the following CSS3, HTML5 and 
-Javascript.
+Javascript. An API was also used - pokeapi.co - from which the data was called in order to display it as per the project brief.Co-pilot was used to assist with creating suggested user stories from which I selected the ones listed in this documentation.
 
 ### Libraries and Frameworks
 
@@ -233,32 +233,22 @@ This included regular debugging and testing using the Dev Tools as ptovided with
 Project and primary learning supplied by [Code Institute](https://codeinstitute.net/ie/)<br>
 Supplemental learning resources directly used / referenced within the project:
 
-- 
-- [Bootstrap Docs](https://getbootstrap.com/docs/5.3)
-- [Bootstrap 5 Crash Course Tutorial #9 - Navbars - YouTube](https://www.youtube.com/watch?v=7AT1X9Z41sA&t=677s)
-- [CSS Variables - The var() function](https://www.w3schools.com/css/css3_variables.asp)
-- [Gemini](https://gemini.google.com) as a learning tool, no code was directly used
-- [Make cards same height side-by-side in Bootstrap 5 - YouTube](https://www.youtube.com/watch?v=wolSRMGJ-Ls)
-- [Mozilla - mdn web docs](https://developer.mozilla.org/)
-
-All additional sources that complemented my learning can be round within additional [research](/documentation/research.md).
+Extra code provided from:
+- 'Love Maths' project & tutorials
+- 'Love Running' project & tutorials
+- youtube tutorial 'How to fetch data from an API using JavaScript' at this link https://www.youtube.com/watch?v=37vxWr0WgQk .
 
 ### Content Research
 
-Due to the nature of the content within this project I was taken down many avenues of research, in part for specifics regarding the content, but also as part of my own personal development and continued learning on how to apply learning objectives to research methodologies. 
-
-The additional [research](/documentation/research.md) has been compiled into list and can be found within the documentation folder of this repo. 
 
 ### Media
 
-- Astronaut Artwork: Designed by [Freepik](http://www.freepik.com/) - Following [Attributation Policy](https://support.freepik.com/s/article/Attribution-How-when-and-where?language=en_US)
-- Static badges for README documentation [Shields.io](https://shields.io/badges/static-badge) & [Simple Icons](https://simpleicons.org/)
+- Pikachu image in logo obtained from pexels.com
+- Sprites provided by pokeapi.co
 
 ### Acknowledgements
 
-- Rhiannon and Jessie for providing feedback on the user experience and colors based on their experience working with autistic children and adults.
-- Julia for providing feedback on design and navigation and also identifying typos.
-- Space_Mumma for providing feedback on design and also inadvertently corroborating my decision to use the astronaut character for this project.
+- Max for offering to do additional testing on laptop and mobile for providing feedback on the user experience and colors.
 
 <hr>
-<p align="right"><a href="#astronauts-for-autism">Back To Top</a></p>
+<p align="right"><a href="#pokemon-fun">Back To Top</a></p>
