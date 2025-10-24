@@ -215,7 +215,7 @@ Testing and validation os the website was carried out throughout the course of t
 This included regular debugging and testing using the Dev Tools as ptovided within Chrome Browser.
 
 [HTML Validation](https://validator.w3.org/)<br>
-![HTML Validation](/documentation/images/validation-html.webp)
+![HTML Validation](/documentation/images/validation-html.png)
 
 [CSS Validation](https://jigsaw.w3.org/css-validator/)<br>
 ![CSS Validation](/documentation/images/validation-css.webp)
