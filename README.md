@@ -4,14 +4,14 @@
 
 
 <p align="center">
-| <a href="https://https://dee-des.github.io/love-gaming/" target="_blank">Live Project</a> |
+| <a href="https://dee-des.github.io/love-gaming/" target="_blank">Live Project</a> |
 </p>
 
 ## Introduction 
 
 Pokemon Fun is my javascript portfolio project developed as part of the Code Institute goStack Bootcamp, consisting of learning outcomes to utilise HTML5, CSS3 & javascript to fulfil the necessary requirements for the brief provided to call and display data from an API.
 
-The live project can found here: <a href="https://https://dee-des.github.io/love-gaming/" target="_blank">Pokemon Fun</a>
+The live project can found here: <a href="https://dee-des.github.io/love-gaming/" target="_blank">Pokemon Fun</a>
 
 <h2 align="center" id="TOC">Table of Contents</h2>
 
